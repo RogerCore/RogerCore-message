@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.Message = require('./lib/message');
+var rogercore = require('rogercore-lib');
+rogercore.Message = require('./lib/message');
 
-module.exports = litecore.Message;
+module.exports = rogercore.Message;
